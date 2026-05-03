@@ -30,7 +30,7 @@ bash <(curl -sL https://raw.githubusercontent.com/thcpdd/self-vpn/main/setup.sh)
                                      └──────────────────┘
 ```
 
-### 脚本原理
+### 脚本执行流程
 
 #### 1. 安装 Xray 并配置 VLESS-Reality
 
