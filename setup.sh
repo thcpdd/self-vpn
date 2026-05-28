@@ -104,7 +104,6 @@ SHORT_ID=$(openssl rand -hex 8)
 FAKE_DOMAINS=(
     "www.microsoft.com"
     "www.apple.com"
-    "www.google.com"
     "www.cloudflare.com"
 )
 RANDOM_INDEX=$((RANDOM % ${#FAKE_DOMAINS[@]}))
